@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
 tipos-variaveis/metodos/.vscode/settings.json
+metodos/src/Ususario.java
+.gitignore
